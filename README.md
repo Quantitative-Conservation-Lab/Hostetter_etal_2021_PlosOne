@@ -1,4 +1,4 @@
-# [Age-structured Jolly-Seber model expands inference and improves parameter estimation from capture-recapture data]
+# Age-structured Jolly-Seber model expands inference and improves parameter estimation from capture-recapture data
 
 ### Hostetter NJ, NJ Lunn, ES Richardson, EV Regehr, and SJ Converse
 
