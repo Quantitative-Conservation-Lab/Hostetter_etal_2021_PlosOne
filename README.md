@@ -21,5 +21,4 @@ Understanding the influence of individual attributes on demographic processes is
 ## Data
 Datasets used in this project are all found in the [data folder](./data):
 
-1) SupplementS3_CaseStudyData.txt        
-Description: Formatted data to run the age-structured Jolly-Seber model. See manuscript for detailed description of data.
+1) [SupplementS3_CaseStudyData.txt](./data/): Formatted data to run the age-structured Jolly-Seber model. See manuscript for detailed description of data.
