@@ -17,8 +17,8 @@ Understanding the influence of individual attributes on demographic processes is
 
 
 ## Code 
-1) [SupplementS2_SimulationAgeStructuredJS.R](./simulation/): This folder contains the R script to generate and analyze age-structured mark-recapture data described in the manuscript.
-2) [SupplementS4_CaseStudy.R](./CaseStudy/): This folder contains the R script to load, format, and run the models described in the case study.
+1) [SupplementS2_SimulationAgeStructuredJS.R](./simulation/): This folder contains the R script to generate and analyze age-structured mark-recapture simulaiton data described in the manuscript.
+2) [SupplementS4_CaseStudy.R](./CaseStudy/): This folder contains the R script to load, format, and run the case study models described in the manuscript.
 
 
 ## Data
